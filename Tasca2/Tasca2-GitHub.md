@@ -16,7 +16,7 @@ En aquesta primera fase s'ha creat el repositori remot a GitHub i s'han realitza
 
 Dins de l'apartat **Settings > General** del repositori es pot comprovar i gestionar el nom del repositori, que en el nostre cas és **`projecte3`**. Aquest nom és l'identificador que s'utilitza a la URL del repositori remot i és el mateix que s'ha fet servir per al repositori local, de manera que ambdós queden correctament vinculats. En aquesta mateixa pantalla també es poden revisar altres paràmetres generals, com ara la descripció, la visibilitat o la branca per defecte.
 
-![Settings > General del repositori projecte3](img/fase1_general.png)
+![Settings > General del repositori projecte3](img/fase1_general.png.png)
 
 ### Settings > Collaborators
 
