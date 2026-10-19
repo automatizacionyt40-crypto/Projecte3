@@ -1,0 +1,3 @@
+Aquest és un fitxer de prova per provocar conflictes.
+Aquesta és la versió local del fitxer.
+Aquesta és la versió remota del fitxer.
